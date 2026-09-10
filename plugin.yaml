@@ -1,0 +1,6 @@
+name: sandra-plugin-test
+version: 1.0.0
+description: Minimal Hermes plugin registration test
+
+provides_tools:
+  - sandra_plugin_healthcheck
